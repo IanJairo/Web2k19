@@ -137,7 +137,7 @@
 .btn.btn-primary.btn-block.btnCadastro {
     margin-top: 1px;
     left: 50%;
-    transform: translate(-50%, 0)
+    transform: translate(-50%, 0);
 }
 
 .repitido {
