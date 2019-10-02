@@ -84,25 +84,27 @@
     transform: translate(-50%);
 }
 
-.btn.btn-primary.btnFace,
-.btn.btn-primary.btnGoogle {
-    max-width: 350px;
-    min-width: 320px;
-    text-align: center;
-}
-
 .btn.btn-primary.btnFace {
     background-color: #3b5998;
     color: #fff;
-    border: none;
     border-radius: 30px;
+    border: none;
 }
 
 .btn.btn-primary.btnGoogle {
     margin-top: 10px;
     background-color: #fff;
     border: none;
-    border-radius: 100px
+    border-radius: 30px;
+}
+
+.btn.btn-primary.btnFace,
+.btn.btn-primary.btnGoogle {
+    max-width: 350px;
+    min-width: 320px;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%);
 }
 
 .btn.btn-primary.btnGoogle:hover {
