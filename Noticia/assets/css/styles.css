@@ -1,0 +1,14 @@
+#text,
+img {
+    float: left;
+}
+
+.imagem-logo {
+    max-width: 164px;
+    margin: -30px;
+    padding: 0;
+}
+
+.text_center {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
