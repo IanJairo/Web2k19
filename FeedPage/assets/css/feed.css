@@ -1,0 +1,14 @@
+.pSlide {
+    background-color: rgba(202, 202, 202, 0.719)
+}
+
+.footer {
+    background-color: black;
+    padding-top: 20px;
+    color: white;
+}
+
+.feed {
+    outline: none;
+    border: none;
+}

@@ -4,7 +4,7 @@ img {
 }
 
 .imagem-logo {
-    width: 164px;
+    max-width: 164px;
     margin: -30px;
     padding: 0;
 }
@@ -55,13 +55,14 @@ img {
 }
 
 #text {
-    width: 600px;
+    max-width: 550px;
+    min-width: 0px;
     margin: 10px;
 }
 
 #titulo {
-    font-size: 20px;
-    height: auto;
+    font-size: 18px;
+    line-height: 22px;
     color: #030303;
 }
 
@@ -73,7 +74,8 @@ img {
 
 .card {
     border-top: #fff;
-    width: 850px;
+    max-width: 800px;
+    min-width: 0px;
     height: auto;
     border-right: #fff;
 }
