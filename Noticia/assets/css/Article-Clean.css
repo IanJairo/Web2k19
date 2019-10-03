@@ -3,8 +3,9 @@
     background-color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
-    max-width: 1000px;
-    min-width: 350px;
+    width: 100%;
+    max-width: 1248px;
+    min-width: 300px;
 }
 
 .article-clean .intro {
@@ -85,6 +86,5 @@
 }
 
 .imagem-noticia {
-    max-width: 730px;
-    min-width: 300px;
+    width: 100%;
 }
